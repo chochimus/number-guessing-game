@@ -78,3 +78,7 @@ Contains the game state and rules, including the randomly generated number, numb
 ## Dependencies
 
 - [`readline-sync`](https://www.npmjs.com/package/readline-sync) — used for synchronous command-line input.
+
+## Acknowledgements
+
+Based on the project at [roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
